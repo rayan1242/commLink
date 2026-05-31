@@ -1,7 +1,7 @@
 # CommLink — Android Real-Time Communication App
 
 A push-to-talk real-time communication Android app built for 
-public safety use cases — inspired by Motorola's WAVE PTX platform.
+public safety use cases
 
 ## Purpose
 Demonstrates real-time networking, audio APIs, and SIP-style 
