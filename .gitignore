@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+**/build/
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Keys / secrets
+*.jks
+*.keystore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backend
+backend/__pycache__/
+backend/*.pyc
